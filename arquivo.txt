@@ -1,3 +1,4 @@
-notebook nao fuinaco#Impressora#sdahgbsadngjsabhgbnjadfjghadf
-sdgsdg#Software#sagsgsdgdfgdfgd
-sdagsdagsdgs#Impressora#sadgasdgsagaa-fsdgsagasg
+1#Notebook ruim#Hardware#Notebook não funciona;
+2#ta tudo ruim#Impressora#nao imprime essa porra
+4#ta ruim#Software#esta travando
+3#esta ruim porra#Rede#nao conecta na rede
